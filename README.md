@@ -1,3 +1,6 @@
+# Monterail Full Dark - Edited
+_This is an edited version of Monterail Full Dark - getting rid of the grey header and making everything dark. Just intall the .xpi file into Thunderbird_
+
 # Monterail Full Dark
 _Monterail Full Dark, a Thunderbird theme inspired by the mockup of Monterail_
 
