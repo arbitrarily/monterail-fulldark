@@ -23,8 +23,7 @@ The theme can be directly downloaded from the Thunderbird Add-on market, the old
 
 
 ## Screenshots
-![screen1](https://user-images.githubusercontent.com/12801153/44424482-837e5f80-a589-11e8-9410-d8d3a538d755.jpg)
-![screen2](https://user-images.githubusercontent.com/12801153/44424481-837e5f80-a589-11e8-94bc-3a45bd658151.jpg)
+![SS](https://user-images.githubusercontent.com/899183/71842212-20fb0600-308f-11ea-812c-120660178235.jpg)
 
 ## FAQ
 * Installation fail/Theme didn't change in Thunderbird 60<br>
